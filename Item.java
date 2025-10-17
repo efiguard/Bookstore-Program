@@ -1,10 +1,5 @@
 package item;
-/**
- * 
- *  Author: Alex Jacobs
- *  Student number: 251093263
- *  
- */
+
 public class Item {
     // attributes
     private String code = new String();
@@ -65,3 +60,4 @@ public class Item {
     
     
 }
+
