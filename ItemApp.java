@@ -1,10 +1,5 @@
 package item;
-/**
- * 
- *  Author: Alex Jacobs
- *  Student number: 251093263
- *  
- */
+
 public class ItemApp {
     public static void main(String[] args) {
         Item[] obj = new Item[5];
@@ -22,3 +17,4 @@ public class ItemApp {
         
     }
 }
+
